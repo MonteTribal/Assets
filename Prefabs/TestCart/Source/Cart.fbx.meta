@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: f137d6cbfb1435445ba665b4dcb0095f
+timeCreated: 1435957848
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Back_Wells
+    100002: BL_Wheel
+    100004: Body
+    100006: BR_Wheel
+    100008: //RootNode
+    100010: Chasis
+    100012: FL_Wheel
+    100014: FR_Wheel
+    100016: Front_Wells
+    100018: Hubcap
+    100020: Hubcap 1
+    100022: Hubcap 2
+    100024: Hubcap 3
+    100026: Peg
+    100028: Plate
+    100030: SteeringWheel
+    100032: Tire
+    100034: Tire 1
+    100036: Tire 2
+    100038: Tire 3
+    100040: transform4
+    100042: transform4 1
+    100044: transform4 2
+    100046: transform4 3
+    100048: transform5
+    100050: transform6
+    100052: transform7
+    100054: transform8
+    400000: Back_Wells
+    400002: BL_Wheel
+    400004: Body
+    400006: BR_Wheel
+    400008: //RootNode
+    400010: Chasis
+    400012: FL_Wheel
+    400014: FR_Wheel
+    400016: Front_Wells
+    400018: Hubcap
+    400020: Hubcap 1
+    400022: Hubcap 2
+    400024: Hubcap 3
+    400026: Peg
+    400028: Plate
+    400030: SteeringWheel
+    400032: Tire
+    400034: Tire 1
+    400036: Tire 2
+    400038: Tire 3
+    400040: transform4
+    400042: transform4 1
+    400044: transform4 2
+    400046: transform4 3
+    400048: transform5
+    400050: transform6
+    400052: transform7
+    400054: transform8
+    2300000: Body
+    2300002: Hubcap
+    2300004: Hubcap 1
+    2300006: Hubcap 2
+    2300008: Hubcap 3
+    2300010: Peg
+    2300012: Plate
+    2300014: SteeringWheel
+    2300016: Tire
+    2300018: Tire 1
+    2300020: Tire 2
+    2300022: Tire 3
+    3300000: Body
+    3300002: Hubcap
+    3300004: Hubcap 1
+    3300006: Hubcap 2
+    3300008: Hubcap 3
+    3300010: Peg
+    3300012: Plate
+    3300014: SteeringWheel
+    3300016: Tire
+    3300018: Tire 1
+    3300020: Tire 2
+    3300022: Tire 3
+    4300000: Peg
+    4300002: SteeringWheel
+    4300004: Tire
+    4300006: Hubcap
+    4300008: Tire
+    4300010: Hubcap
+    4300012: Tire
+    4300014: Hubcap
+    4300016: Tire
+    4300018: Hubcap
+    4300020: Plate
+    4300022: Body
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
